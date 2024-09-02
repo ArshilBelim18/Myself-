@@ -1,4 +1,4 @@
-# Myself-# 💫 About Me:
+#💫 About Me:#
 <br>Here's the updated version with a new placeholder for the fun fact:<br><br>🔭 I’m currently working on a Python project.<br>👯 I’m looking to collaborate on open-source projects, especially those involving Python or C++.<br>🤝 I’m looking for help from experienced professionals in tech, especially those skilled in Python, C++, and DSA.<br>🌱 I’m currently learning Python and Data Structures & Algorithms in C++.<br>💬 Ask me about my journey in tech or my latest project!<br>⚡ Fun fact: I’m always up for a coding challenge and love solving complex problems!
 
 
